@@ -3,4 +3,5 @@ fil
 med 
 del linjer
 og innhold
-mer innhold
+mer innhold 
+add feature
